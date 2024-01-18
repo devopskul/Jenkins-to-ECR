@@ -6,7 +6,7 @@ Jenkins with AWS ECR pipeline
 2. sudo yum install docker
 3. sudo usermod -a -G docker ec2-user
 4. id ec2-user
-5. newgrp docker
+5. newgrp docker.
 7. sudo systemctl enable docker.service
 8. sudo systemctl start docker.service
 9. sudo systemctl status docker.service
@@ -15,7 +15,7 @@ Jenkins with AWS ECR pipeline
 11. chmod 777 /var/run/docker.sock
 
 
-## Install Jenkins
+## Install Jenkins-
 
 https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/
 
