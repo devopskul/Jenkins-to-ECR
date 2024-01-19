@@ -1,4 +1,4 @@
-Jenkins with AWS ECR pipeline
+Jenkins with AWS ECR pipeline-
 
 ## Perform these commands on the EC2 instance
 
